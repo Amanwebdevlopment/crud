@@ -1,0 +1,39 @@
+@media(max-width : 425px){
+    .container{
+        width: 100%;
+    }
+    .heading{
+        text-align: center;
+        padding-bottom: 1em;
+    }
+    .crud-top{
+        flex-direction: column;
+    }
+    .crud-action{
+        flex-direction: column-reverse;
+        width: 100%;
+        gap: 10px;
+    }
+    .crud-top-btn{
+        width: 20%;
+        padding: 0;
+        font-size: 0.7em;
+    }
+    .search-box{
+        width:80%;
+        height: 30px;
+    }
+    .crud-action-btn{
+        display: flex;
+        flex-direction: row;
+    }
+    .crud-table{
+        font-size: 0.5em;
+    }
+    .crud-bottom{
+        font-size: 0.5em;
+    }
+    .modal-content{
+        width: 85%;
+    }
+}

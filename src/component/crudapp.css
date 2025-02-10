@@ -180,7 +180,7 @@ body{
     cursor: pointer;
   }
 .deleteAll-btn{
-  background-color:#e31212;
+  background-color:green;
 }
 .crud-bottom{
   justify-content: space-between;
